@@ -8,16 +8,1279 @@ function denied()
     echo "
 
 <!DOCTYPE html>
-<html lang='id'>
+<html lang='en-US'>
+
 <head>
-    <meta charset='UTF-8'>
-    <meta name='viewport' content='width=device-width, initial-scale=1.0'>
-    <meta http-equiv='refresh' content='0; url=https://hanau.seruyankab.go.id/'>
-    <title>Mengarahkan...</title>
+<meta http-equiv='Content-Type' content='text/html; charset=UTF-8' />
+<meta name='viewport' content='width=device-width, initial-scale=1.0'>
+<meta name='robots' content='index, follow' />
+<link rel='shortcut icon' href='favicon.png'>
+<meta name='author' content='hanau@seruyankab.go.id'>
+<meta name='content_type' content='Standard' />
+
+<title>Kecamatan Hanau</title>
+<meta name='description' content='Situs Resmi Kecamatan Hanau'>
+<meta name='keywords' content='Kabupaten Seruyan'>
+<!-- <meta property='fb:app_id' content='161134343906646' /> -->
+<meta property='og:site_name' content='Kecamatan Hanau'/>
+<meta property='og:title' content='Website Resmi Kecamatan Hanau' />
+<meta property='og:url' content='https://hanau.seruyankab.go.id'/>
+<meta property='og:description' content='Selamat Datang di Web Portal Resmi Kecamatan Hanau. Web ini menyediakan segala informasi mengenai Kecamatan Hanau. Informasi pemerintahan, informasi desa dan berita.' />
+<meta property='og:type' content='website' />
+
+<meta property='article:author' content='https://www.facebook.com/kab.seruyan/?locale=id_ID' />
+<meta property='article:publisher' content='https://www.facebook.com/kab.seruyan/?locale=id_ID' />
+
+<!-- Bootstrap core CSS -->
+<link href='templates/skpdlotim/assets_baru/css/bootstrap.min.css' rel='stylesheet'>
+
+<!-- Bootstrap custom CSS -->
+<link href='templates/skpdlotim/assets_baru/css/style.css' rel='stylesheet' />
+
+<!-- Font Awesome CSS -->
+<link href='templates/skpdlotim/assets/css/font-awesome.min.css' rel='stylesheet' />
+
+<!-- custom CSS for this web -->
+<link rel='stylesheet' type='text/css' href='templates/skpdlotim/assets_baru/css/merah.css' />
+
+<!-- sharingButton -->
+<link rel='stylesheet' type='text/css' href='templates/skpdlotim/assets_baru/css/rrssb.css' />
+
+<!-- bts css -->
+<link href='templates/skpdlotim/assets_baru/css/bootstrap-touch-slider.css' rel='stylesheet' media='all'>
+
+<!-- slick carousel -->
+<link rel='stylesheet' type='text/css' href='templates/skpdlotim/js/jquery.slick/1.6.0/slick.css'/>
+<link rel='stylesheet' type='text/css' href='templates/skpdlotim/js/jquery.slick/1.6.0/slick-theme.css'/>
+
+<!-- font roboto -->
+<link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+
+
+
 </head>
+
 <body>
+<div class='container'>
+	<div class='row'>
+	
+	</div>
+	<!-- / row -->
+</div>
+
+<!-- navigasi menu -->
+<header>
+ 
+<div class='sticky-header-container'>
+		<div id='sticky-header' class='header-main header-transparent navbar mega-menu' data-spy='affix' data-offset-top='10'>
+			<div class='container'>
+				<div class='navbar-container'>
+					<div class='navbar-header'>
+						<!-- logo utama -->
+						<a href='./' class='navbar-brand hidden-xs hidden-sm'>
+							<img class='img-responsive logo' src='./images/logo putih.png'>
+						</a>
+
+						<!-- logo mobile -->
+						<a href='./' class='visible-xs visible-sm'>
+							<img class='img-responsive mbl' src='./images/logo putih.png'>
+						</a>
+
+						<!-- tombol menu mobile -->
+						<a class='btn btn-default nav-toggle visible-xs visible-sm' ontouchstart>
+							<span class='sr-only'>Toggle navigation</span>
+							<i class='fa fa-bars'></i>
+						</a>
+					</div><!-- .navbar-header -->
+
+					<nav class='navbar-left'>
+						<ul class='nav navbar-nav main-nav'>
+
+							<!-- mobile menu visible -->
+							<li class='visible-xs visible-sm'>
+								<!-- tombol close -->
+								<a class='nav-toggle text-center'>
+									<i class='fa fa-times'></i>
+									<span class='sr-only'>Close navigation</span>
+								</a>
+							</li>
+							<li class='visible-sm visible-xs'>
+								<!-- Form Pencarian Mobile -->
+								<form action='hasil-pencarian.html' method='post'>
+									<label class='sr-only' for='search-site-2'>
+										Pencarian
+									</label>
+									<input id='search-site-2' type='text' class='form-control' autocomplete='off' placeholder='Pencarian' name='kata' />
+								</form>
+								<ul class='nav nav-mobile-cta'>
+									<!-- Menu untuk mobile -->
+								</ul>
+							</li>
+							<li class='nav-info-for visible-xs visible-sm'>
+								<h3>Menu&hellip;</h3>
+							</li>
+							<!-- <li class='visible-xs visible-sm'><a href='#'>Download</a></li>
+							<li class='visible-xs visible-sm'><a href='#'>Kontak</a></li> -->
+							<!-- .mobile menu visible -->
+							<li class='dropdown'><a href='./' style='text-transform: uppercase;'>Beranda</a></li><li class='dropdown'><a href='#!' class='dropdown-toggle' style='text-transform: uppercase;' data-toggle='dropdown'>Selayang Pandang</a><ul class='dropdown-menu'><li><a href='statis-5-sambutan-kepala-dinas.html'>Sambutan Camat Hanau</a></li><li><a href='statis-6-tugas-dan-fungsi.html'>Tugas dan fungsi</a></li></ul>
+									   </li><li class='dropdown'><a href='#!' class='dropdown-toggle' style='text-transform: uppercase;' data-toggle='dropdown'>Profil Kecamatan Hanau</a><ul class='dropdown-menu'><li><a href='statis-7-sejarah.html'>Sejarah</a></li><li><a href='statis-8-mottosemboyan.html'>Motto/Semboyan</a></li><li><a href='statis-10-struktur-organisasi.html'>Struktur Organisasi</a></li></ul>
+									   </li><li class='dropdown'><a href='#' class='dropdown-toggle' style='text-transform: uppercase;' data-toggle='dropdown'>Pelaporan</a><ul class='dropdown-menu'><li><a href='statis-14-perencanaan-dan-keuangan.html'>Perencanaan dan Keuangan</a></li></ul>
+									   </li><li class='dropdown'><a href='#' class='dropdown-toggle' style='text-transform: uppercase;' data-toggle='dropdown'>Layanan</a><ul class='dropdown-menu'><li><a href='statis-17-perizinan.html'>Perizinan</a></li></ul>
+									   </li><li class='dropdown'><a href='./hubungi-kami.html' style='text-transform: uppercase;'>Kontak Kami</a></li><li class='dropdown'><a href='./arsip-foto.html' style='text-transform: uppercase;'>Galeri</a></li><li class='dropdown'><a href='./semua-download.html' style='text-transform: uppercase;'>Download</a></li>	
+					</ul>
+					</nav>
+				</div> <!-- .navbar-container -->
+			</div> <!-- .container -->
+		</div> <!-- .header-main -->
+</div> <!-- .sticky-header-container -->
+	<div class='header-top header-primary hidden-xs hidden-sm'>
+		<div class='top-search-container'>
+			<div class='container'>
+				<div class='row'>
+					<div class='col-md-12'>
+						<form action='hasil-pencarian.html' method='POST'>
+							<label class='sr-only' for='search-site'>
+							Pencarian
+							</label>
+							<div class='input-group'>
+								<input id='search-site' type='text' class='form-control' autocomplete='off' placeholder='Pencarian' name='kata' />
+								<span class='input-group-btn'>
+									<button class='btn btn-light' type='submit'>Cari</button>
+								</span>
+							</div> <!-- .input-group -->
+						</form>
+					</div> <!-- .col-md-12 -->
+				</div> <!-- .row -->
+			</div> <!-- .container -->
+		</div> <!-- .top-search-container -->
+
+		<div class='container'>
+			<div class='row'>
+				<div class='col-md-9'>
+
+						<!-- get marquee css -->
+						<link type='text/css' href='templates/skpdlotim/assets/css/jquery.marquee.min.css' rel='stylesheet' title='default' media='all'>
+						
+						<div class='row-fluid running-text'>
+							<div class='media-left'>
+								<i class='fa fa-file-text' style='color: #fff;'></i>
+							</div>
+							<div class='media-body'>
+							<!-- ul running text -->
+							<ul id='marquee1' class='marquee'>
+																<li class='myriadpro kecil'>Selamat Datang di Website Resmi Kecamatan Hanau Kabupaten Seruyan</li>
+																<li class='myriadpro kecil'>Pantai Sungai Bakau menjadi wisata favorit masyarakat Kabupaten Seruyan. Ayooo... Segera kunjungi..</li>
+															</ul>
+							<!-- .ul running text -->
+							</div>
+						</div>
+				</div> <!-- .col-md-offset-2 col-md-6 -->
+
+				<div class='col-md-3'>
+					<!-- nav pencarian -->
+					<nav class='navbar-right hidden-xs hidden-sm'>
+						<form class='no-margin' action='hasil-pencarian.html' method='POST'>
+							<input class='search' name='kata' type='text' placeholder='Pencarian Berita' required=''>
+							<button class='button' type='submit'><i class='fa fa-search'></i></button>
+						</form>
+					</nav>
+					<!-- .nav pencarian -->
+				</div> <!-- .col-md-4 -->
+			</div> <!-- .row -->
+		</div> <!-- .container -->
+	</div> <!-- .header-top --></header>
+<!-- .navigasi menu -->
+
+ <section class='site-section banner-atas-default hidden-xs hidden-sm'>
+
+	<div class='margin-bottom-100 visible-xs'>
+		<div class='clearfix'></div>
+	</div>
+	<div id='bootstrap-touch-slider' class='carousel bs-slider fade control-round indicators-line' data-ride='carousel' data-interval='4500' >
+
+		<!-- Indicators -->
+		
+		<!-- Wrapper For Slides -->
+		<div class='carousel-inner' role='listbox'>
+						<!-- Start of Slide -->
+			<div class='item active'>
+			<a href='https://hanau.seruyankab.go.id/pj.bupati' target='_blank'>
+				<!-- Slide Background -->
+				<img src='./foto_slider/144157-497797-Untitled-1.jpg' alt=''  class='slide-image'/>
+				<!-- <div class='bs-slider-overlay'></div> -->
+
+				<div class='container'>
+					<div class='row'>
+					</div>
+				</div>
+				</a>
+			</div>
+			<!-- End of Slide -->
+						<!-- Start of Slide -->
+			<div class='item '>
+			<a href='https://hanau.seruyankab.go.id/hari-pahlawan' target='_blank'>
+				<!-- Slide Background -->
+				<img src='./foto_slider/853981-828404-11111.jpg' alt=''  class='slide-image'/>
+				<!-- <div class='bs-slider-overlay'></div> -->
+
+				<div class='container'>
+					<div class='row'>
+					</div>
+				</div>
+				</a>
+			</div>
+			<!-- End of Slide -->
+					</div>
+		<!-- End of Wrapper For Slides -->
+		
+		<!-- Left Control -->
+		<a class='left carousel-control' href='#bootstrap-touch-slider' role='button' data-slide='prev'>
+			<span class='fa fa-angle-left' aria-hidden='true'></span>
+			<span class='sr-only'>Previous</span>
+		</a>
+
+		<!-- Right Control -->
+		<a class='right carousel-control' href='#bootstrap-touch-slider' role='button' data-slide='next'>
+			<span class='fa fa-angle-right' aria-hidden='true'></span>
+			<span class='sr-only'>Next</span>
+		</a>
+	</div><!-- End  bootstrap-touch-slider Slider -->
+</section>
+<section class='site-section no-margin padding-bottom-15 running-section hidden-xs hidden-sm'>
+	<div class='container paddingnya margin-top-10'>
+		<div class='row'>
+			<div class='col-md-3 no-padding'>
+								<img class='foto-bupati' src='images/bupati-wakilbupati.png'>
+			</div>
+			<div class='col-md-9 padding-right-0'>
+				<ul class='indicators-list slider-kecil margin-left-20 margin-right-10'>
+										<li class=' margin-top-0 margin-bottom-40'>
+						<a class='pie margin-top-20 margin-bottom-10' href='../arsip-agenda.html' target='_blank'>
+						<i class='fa fa-folder-open icon-circle icon-bordered fa-primary ikon-kecil' style='color: #0FA3DB; border-color: #0FA3DB;'></i><strong>Agenda</strong>
+							<span><p>Daftar Agenda di Dinas terkait</p>
+							</span>
+						</a>
+					</li>
+										<li class='pink-box margin-top-0 margin-bottom-40'>
+						<a class='pie margin-top-20 margin-bottom-10' href='../semua-download.html' target='_blank'>
+						<i class='fa fa-folder-open icon-circle icon-bordered fa-primary ikon-kecil' style='color: #C80974; border-color: #C80974;'></i><strong>Download</strong>
+							<span><p>Direktori File-file Download</p>
+							</span>
+						</a>
+					</li>
+										<li class='yellow-box margin-top-0 margin-bottom-40'>
+						<a class='pie margin-top-20 margin-bottom-10' href='../arsip-foto.html' target='_blank'>
+						<i class='fa fa-folder-open icon-circle icon-bordered fa-primary ikon-kecil' style='color: #F18F21; border-color: #F18F21;'></i><strong>Galeri</strong>
+							<span><p>Daftar foto galeri di Kecamatan Hanau </p>
+							</span>
+						</a>
+					</li>
+										<li class='green-box margin-top-0 margin-bottom-40'>
+						<a class='pie margin-top-20 margin-bottom-10' href='../arsip-pengumuman.html' target='_blank'>
+						<i class='fa fa-folder-open icon-circle icon-bordered fa-primary ikon-kecil' style='color: #10D494; border-color: #10D494;'></i><strong>Pengumuman</strong>
+							<span><p>Daftar pengumuman </p>
+							</span>
+						</a>
+					</li>
+										<li class=' margin-top-0 margin-bottom-40'>
+						<a class='pie margin-top-20 margin-bottom-10' href='#' target='_blank'>
+						<i class='fa fa-folder-open icon-circle icon-bordered fa-primary ikon-kecil' style='color: #0FA3DB; border-color: #0FA3DB;'></i><strong>Situs Terkait</strong>
+							<span><p>Daftar Nama Situs Terkait</p>
+							</span>
+						</a>
+					</li>
+									</ul><!-- .indicators-list -->
+			</div><!-- .col-md-9 -->
+		</div><!-- .row -->
+	</div><!-- .container -->
+</section>
+<section class='site-content padding-bottom-0'>
+	<div class='container paddingnya'>
+		<div class='row margin-bottom-10'>
+			<div class='col-md-8 no-padding left-column'>
+				
+				<!-- Start Carousel Slider Berita -->
+				<div id='custom_carousel' class='carousel slide margin-bottom-15' data-ride='carousel' data-interval='5000'>
+					<!-- Carousel Inner -->
+					<div class='carousel-inner'>
+												<div class='item active'>
+							<div class='container-fluid no-padding'>
+								<div class='row'>                               
+									<div class='col-sm-12 no-padding'>
+										<a href='baca-berita-490-pj-bupati-seruyan-drsh-djainuddin-noor-map-dampingi-kunjungan-kerja-gubernur-kalimantan-tengah-h-sugianto-sabran.html'>
+											<img class='img-responsive slider-berita' src='foto_berita/52387795015_1884265608642043_3774113237868847757_n.jpg'/>
+											<div class='carousel-caption'>
+												<span>Selasa, 10 Oktober 2023</span>
+												<h2 align='left'>Pj. Bupati Seruyan Drs.H. Djainuddin Noor, M.A.P. Dampingi Kunjungan Kerja Gubernur Kalimantan Tengah H. Sugianto Sabran</h2>
+											</div>                     
+										</a>
+									</div><!-- .col-sm-12 -->
+								</div><!-- .row -->
+							</div><!-- .container-fluid -->           
+						</div>
+											<div class='item '>
+							<div class='container-fluid no-padding'>
+								<div class='row'>                               
+									<div class='col-sm-12 no-padding'>
+										<a href='baca-berita-489-pj-bupati-seruyan-melepasan-kafilah-kabupaten-seruyan-mengikuti-mtq-vii-korpri-tingkat-provinsi-kalimantan-tengah.html'>
+											<img class='img-responsive slider-berita' src='foto_berita/54387073987_1882351588833445_760059890499823163_n.jpg'/>
+											<div class='carousel-caption'>
+												<span>Selasa, 10 Oktober 2023</span>
+												<h2 align='left'>Pj. Bupati Seruyan Melepasan Kafilah Kabupaten Seruyan Mengikuti MTQ VII KORPRI Tingkat Provinsi Kalimantan Tengah</h2>
+											</div>                     
+										</a>
+									</div><!-- .col-sm-12 -->
+								</div><!-- .row -->
+							</div><!-- .container-fluid -->           
+						</div>
+											<div class='item '>
+							<div class='container-fluid no-padding'>
+								<div class='row'>                               
+									<div class='col-sm-12 no-padding'>
+										<a href='baca-berita-488-pj-bupati-seruyan-drsh-djainuddin-noor-map-melantik-dan-mengambil-sumpah-jabatan-penjabat-pj-sekretaris-daerah-kabupaten-seruyan.html'>
+											<img class='img-responsive slider-berita' src='foto_berita/51385884012_1882291702172767_8778908638734413214_n.jpg'/>
+											<div class='carousel-caption'>
+												<span>Selasa, 10 Oktober 2023</span>
+												<h2 align='left'>Pj. Bupati Seruyan Drs.H. Djainuddin Noor, M.A.P. Melantik dan Mengambil Sumpah Jabatan Penjabat (Pj.) Sekretaris Daerah Kabupaten Seruyan</h2>
+											</div>                     
+										</a>
+									</div><!-- .col-sm-12 -->
+								</div><!-- .row -->
+							</div><!-- .container-fluid -->           
+						</div>
+											<div class='item '>
+							<div class='container-fluid no-padding'>
+								<div class='row'>                               
+									<div class='col-sm-12 no-padding'>
+										<a href='baca-berita-487-penjabat-pj-bupati-seruyan-drs-h-djainuddin-noor-map-mengikuti-rapat-koordinasi-penanggulangan-kebakaran-hutan-dan-lahan-karhutla.html'>
+											<img class='img-responsive slider-berita' src='foto_berita/73386338374_1882087425526528_3556934023246432325_n.jpg'/>
+											<div class='carousel-caption'>
+												<span>Selasa, 10 Oktober 2023</span>
+												<h2 align='left'>Penjabat (Pj) Bupati Seruyan Drs. H. Djainuddin Noor, M.A.P., Mengikuti Rapat Koordinasi Penanggulangan Kebakaran Hutan dan Lahan (KARHUTLA)</h2>
+											</div>                     
+										</a>
+									</div><!-- .col-sm-12 -->
+								</div><!-- .row -->
+							</div><!-- .container-fluid -->           
+						</div>
+											
+					</div>
+					<!-- End Carousel Inner -->
+
+					<style type='text/css'>
+						p.text-page {
+						    overflow: hidden;
+						    height: 77px;
+						    margin-bottom: 8px;
+						}
+					</style>
+					
+					<!-- Start Control Thumbnails -->
+					<div class='controls'>
+						<ul class='nav slider margin-left-0'>
+														<li data-target='#custom_carousel' data-slide-to='0' class=''>
+								<a href='#' class='slider-control'>
+									<div class='margin-bottom-10'>
+										<img class='img-responsive' src='foto_berita/small_52387795015_1884265608642043_3774113237868847757_n.jpg'/>
+									</div>
+									<p class='hidden-xs hidden-sm text-page'>
+										<span>Pj. Bupati Seruyan Drs.H. Djainuddin Noor, M.A.P. Dampingi Kunjungan Kerja Gubernur Kalimantan Tengah H. Sugianto Sabran</span>
+									</p>
+								</a>
+							</li>
+														<li data-target='#custom_carousel' data-slide-to='1' class=''>
+								<a href='#' class='slider-control'>
+									<div class='margin-bottom-10'>
+										<img class='img-responsive' src='foto_berita/small_54387073987_1882351588833445_760059890499823163_n.jpg'/>
+									</div>
+									<p class='hidden-xs hidden-sm text-page'>
+										<span>Pj. Bupati Seruyan Melepasan Kafilah Kabupaten Seruyan Mengikuti MTQ VII KORPRI Tingkat Provinsi Kalimantan Tengah</span>
+									</p>
+								</a>
+							</li>
+														<li data-target='#custom_carousel' data-slide-to='2' class=''>
+								<a href='#' class='slider-control'>
+									<div class='margin-bottom-10'>
+										<img class='img-responsive' src='foto_berita/small_51385884012_1882291702172767_8778908638734413214_n.jpg'/>
+									</div>
+									<p class='hidden-xs hidden-sm text-page'>
+										<span>Pj. Bupati Seruyan Drs.H. Djainuddin Noor, M.A.P. Melantik dan Mengambil Sumpah Jabatan Penjabat (Pj.) Sekretaris Daerah Kabupaten Seruyan</span>
+									</p>
+								</a>
+							</li>
+														<li data-target='#custom_carousel' data-slide-to='3' class=''>
+								<a href='#' class='slider-control'>
+									<div class='margin-bottom-10'>
+										<img class='img-responsive' src='foto_berita/small_73386338374_1882087425526528_3556934023246432325_n.jpg'/>
+									</div>
+									<p class='hidden-xs hidden-sm text-page'>
+										<span>Penjabat (Pj) Bupati Seruyan Drs. H. Djainuddin Noor, M.A.P., Mengikuti Rapat Koordinasi Penanggulangan Kebakaran Hutan dan Lahan (KARHUTLA)</span>
+									</p>
+								</a>
+							</li>
+													</ul>
+					</div>
+					<!-- End Control Thumbnails -->
+
+				</div>
+				<!-- End Carousel Slider Berita -->
+
+				<script type='text/javascript'>
+					$(document).ready(function(ev){
+					$('#custom_carousel').on('slide.bs.carousel', function (evt) {
+						$('#custom_carousel .controls li.active').removeClass('active');
+						$('#custom_carousel .controls li:eq('+$(evt.relatedTarget).index()+')').addClass('active');
+					})
+				});
+				</script>
+
+			</div> <!-- .col-md-8 -->
+
+			<div class='col-md-4 right-column no-padding margin-bottom-10'>
+				<!--/////////////////////////- start sidebar atas -/////////////////////-->
+				<ul class='nav nav-tabs tabs-v3 nav-justified social-tabs custom' role='tablist'>
+		
+					<li role='presentation' class='myriadpro active'>
+						<a href='#beritaterbaru' class='sidebar-utama' role='tab' data-toggle='tab'>
+							<span>Terbaru</span>
+						</a>
+					</li>
+					<li role='presentation' class='myriadpro'>
+						<a href='#beritaterpopuler' class='sidebar-utama kanan' role='tab' data-toggle='tab'>
+							<span>Populer</span>
+						</a>
+					</li>
+				</ul>
+
+				<div class='tab-content social-tabs no-border no-padding'>
+					<div class='tab-pane no-padding active' id='beritaterbaru'>	
+												<a href='baca-berita-490-pj-bupati-seruyan-drsh-djainuddin-noor-map-dampingi-kunjungan-kerja-gubernur-kalimantan-tengah-h-sugianto-sabran.html' class='list-group-item custom'>
+							<div class='row'>
+								<div class='col-xs-4 no-padding'>
+									<img src='foto_berita/small_52387795015_1884265608642043_3774113237868847757_n.jpg' class='img-responsive padding-right-10'>
+								</div>
+								<div class='col-xs-8 no-padding'>
+									<div style='overflow: hidden;height: 57px;'>
+										<h5 class='no-margin'><span style='color: #000000;'>Pj. Bupati Seruyan Drs.H. Djainuddin Noor, M.A.P. Dampingi Kunjungan Kerja Gubernur Kalimantan Tengah H. Sugianto Sabran</span></h5>
+									</div>
+								</div>  
+							</div>
+						</a>
+												<a href='baca-berita-489-pj-bupati-seruyan-melepasan-kafilah-kabupaten-seruyan-mengikuti-mtq-vii-korpri-tingkat-provinsi-kalimantan-tengah.html' class='list-group-item custom'>
+							<div class='row'>
+								<div class='col-xs-4 no-padding'>
+									<img src='foto_berita/small_54387073987_1882351588833445_760059890499823163_n.jpg' class='img-responsive padding-right-10'>
+								</div>
+								<div class='col-xs-8 no-padding'>
+									<div style='overflow: hidden;height: 57px;'>
+										<h5 class='no-margin'><span style='color: #000000;'>Pj. Bupati Seruyan Melepasan Kafilah Kabupaten Seruyan Mengikuti MTQ VII KORPRI Tingkat Provinsi Kalimantan Tengah</span></h5>
+									</div>
+								</div>  
+							</div>
+						</a>
+												<a href='baca-berita-488-pj-bupati-seruyan-drsh-djainuddin-noor-map-melantik-dan-mengambil-sumpah-jabatan-penjabat-pj-sekretaris-daerah-kabupaten-seruyan.html' class='list-group-item custom'>
+							<div class='row'>
+								<div class='col-xs-4 no-padding'>
+									<img src='foto_berita/small_51385884012_1882291702172767_8778908638734413214_n.jpg' class='img-responsive padding-right-10'>
+								</div>
+								<div class='col-xs-8 no-padding'>
+									<div style='overflow: hidden;height: 57px;'>
+										<h5 class='no-margin'><span style='color: #000000;'>Pj. Bupati Seruyan Drs.H. Djainuddin Noor, M.A.P. Melantik dan Mengambil Sumpah Jabatan Penjabat (Pj.) Sekretaris Daerah Kabupaten Seruyan</span></h5>
+									</div>
+								</div>  
+							</div>
+						</a>
+											</div>
+
+					<div class='tab-pane no-padding' id='beritaterpopuler'>
+												<a href='baca-berita-489-pj-bupati-seruyan-melepasan-kafilah-kabupaten-seruyan-mengikuti-mtq-vii-korpri-tingkat-provinsi-kalimantan-tengah.html' class='list-group-item custom'>
+							<div class='row'>
+								<div class='col-xs-4 no-padding'>
+									<img src='foto_berita/small_54387073987_1882351588833445_760059890499823163_n.jpg' class='img-responsive padding-right-10'>
+								</div>
+								<div class='col-xs-8 no-padding'>
+									<div style='overflow: hidden;height: 57px;'>
+										<h5 class='no-margin'><span style='color: #000000;'>Pj. Bupati Seruyan Melepasan Kafilah Kabupaten Seruyan Mengikuti MTQ VII KORPRI Tingkat Provinsi Kalimantan Tengah</span></h5>
+									</div>
+								</div>  
+							</div>
+						</a>
+												<a href='baca-berita-490-pj-bupati-seruyan-drsh-djainuddin-noor-map-dampingi-kunjungan-kerja-gubernur-kalimantan-tengah-h-sugianto-sabran.html' class='list-group-item custom'>
+							<div class='row'>
+								<div class='col-xs-4 no-padding'>
+									<img src='foto_berita/small_52387795015_1884265608642043_3774113237868847757_n.jpg' class='img-responsive padding-right-10'>
+								</div>
+								<div class='col-xs-8 no-padding'>
+									<div style='overflow: hidden;height: 57px;'>
+										<h5 class='no-margin'><span style='color: #000000;'>Pj. Bupati Seruyan Drs.H. Djainuddin Noor, M.A.P. Dampingi Kunjungan Kerja Gubernur Kalimantan Tengah H. Sugianto Sabran</span></h5>
+									</div>
+								</div>  
+							</div>
+						</a>
+												<a href='baca-berita-488-pj-bupati-seruyan-drsh-djainuddin-noor-map-melantik-dan-mengambil-sumpah-jabatan-penjabat-pj-sekretaris-daerah-kabupaten-seruyan.html' class='list-group-item custom'>
+							<div class='row'>
+								<div class='col-xs-4 no-padding'>
+									<img src='foto_berita/small_51385884012_1882291702172767_8778908638734413214_n.jpg' class='img-responsive padding-right-10'>
+								</div>
+								<div class='col-xs-8 no-padding'>
+									<div style='overflow: hidden;height: 57px;'>
+										<h5 class='no-margin'><span style='color: #000000;'>Pj. Bupati Seruyan Drs.H. Djainuddin Noor, M.A.P. Melantik dan Mengambil Sumpah Jabatan Penjabat (Pj.) Sekretaris Daerah Kabupaten Seruyan</span></h5>
+									</div>
+								</div>  
+							</div>
+						</a>
+											</div>
+				</div>
+				<!--/////////////////////////- end sidebar atas -/////////////////////-->
+			</div>
+
+			<div class='col-md-4 right-column no-padding margin-bottom-10'>
+				<!--/////////////////////////- start sidebar atas -/////////////////////-->
+				<ul class='nav nav-tabs tabs-v3 nav-justified social-tabs custom' role='tablist'>
+		
+					<li role='presentation' class='myriadpro active'>
+						<a href='#sms' class='sidebar-utama' role='tab' data-toggle='tab'>
+							<span>BANNER</span>
+						</a>
+					</li>
+				</ul>
+
+				<style type='text/css'>
+					a.list-group-item {
+						text-decoration: none;
+						color: #00276C;
+					}
+
+					.atas-sms {
+						border-bottom: solid 1px;
+						margin-bottom: 0px;
+					}
+
+					@media (max-width: 770px) {
+						.atas-sms small {
+							font-size: 11px;
+						}
+					}
+
+					@media (max-width: 330px) {
+						.atas-sms small {
+							font-size: 9px;
+						}
+					}
+				</style>
+
+				
+				<div class='tab-content social-tabs no-border no-padding'>
+					<div class='tab-pane no-padding active' id='sms'>
+												<a href='https://www.lapor.go.id/' target='_blank'>
+							<img src='foto_banner/63small_52387795015_1884265608642043_3774113237868847757_n.jpg' width='100%'/>
+						</a>	
+					</div>
+				</div>
+				<!--/////////////////////////- end sidebar atas -/////////////////////-->
+			</div>
+
+		</div> <!-- .row margin-bottom-10 -->
+	</div> <!-- .container paddingnya -->
+</section>
+<section class='site-content padding-bottom-25 no-padding'>
+	<div class='container paddingnya'>
+		<div class='row'>
+			<div class='col-md-8 no-padding left-column'>
+			<!--/////////////////////////- start main -/////////////////////-->
+			<ul class='nav nav-tabs tabs-v3 nav-justified social-tabs responsive-text' role='tablist'>
+				<li role='presentation' class='myriadpro uppercase active'>
+					<a href='#artikel' role='tab' data-toggle='tab'>
+						<i class='fa fa-folder-open'></i>
+						<span>Artikel</span>
+					</a>
+				</li>
+				<li role='presentation' class='myriadpro uppercase'>
+					<a href='#agendakegiatan' role='tab' data-toggle='tab'>
+						<i class='fa fa-folder-open'></i>
+						<span>Agenda</span>
+					</a>
+				</li>
+				<li role='presentation' class='myriadpro uppercase'>
+					<a href='#pengumuman' role='tab' data-toggle='tab'>
+						<i class='fa fa-clipboard'></i>
+						<span>Pengumuman</span>
+					</a>
+				</li>
+			</ul>
+
+			<div class='tab-content bg-light social-tabs no-border no-padding'>
+				<div class='tab-pane no-padding active' id='artikel'>
+					<ul class='media-list'>
+												<li class='media space margin-bottom-20'>
+							<div class='media-left'>
+								<img class='media-object borderthumb' 
+									 src='foto_berita/medium_35small_9020230929_-_Rapat_Pembahasan_Hasil_Assessment_MPP_Digital_2.jpeg' 
+									 alt='Kementerian PANB Pacu Peningkatan Layanan Administrasi Kependudukan dan Kesehatan di MPP Digital' 
+									 width='125' 
+									 height='70'>
+							</div> <!-- .media-left -->
+
+							<div class='media-body'>
+								<p class='small text-muted no-bottom-spacing'>
+									<i class='fa fa-calendar margin-right-5'></i>
+									10 Oktober 2023								</p>
+								<h4 class='media-heading margin-top-5'>
+									<a href='baca-berita-495-kementerian-panb-pacu-peningkatan-layanan-administrasi-kependudukan-dan-kesehatan-di-mpp-digital.html'>
+										Kementerian PANB Pacu Peningkatan Layanan Administrasi Kependudukan dan Kesehatan di MPP Digital									</a>
+								</h4>
+							</div> <!-- .media-body -->
+						</li>
+												<li class='media space margin-bottom-20'>
+							<div class='media-left'>
+								<img class='media-object borderthumb' 
+									 src='foto_berita/medium_1220231003_-_RUU_ASN_Disahkan_1.jpeg' 
+									 alt='RUU ASN Disahkan, Resmi Tak Ada PHK Massal untuk Tenaga Honorer' 
+									 width='125' 
+									 height='70'>
+							</div> <!-- .media-left -->
+
+							<div class='media-body'>
+								<p class='small text-muted no-bottom-spacing'>
+									<i class='fa fa-calendar margin-right-5'></i>
+									10 Oktober 2023								</p>
+								<h4 class='media-heading margin-top-5'>
+									<a href='baca-berita-494-ruu-asn-disahkan-resmi-tak-ada-phk-massal-untuk-tenaga-honorer.html'>
+										RUU ASN Disahkan, Resmi Tak Ada PHK Massal untuk Tenaga Honorer									</a>
+								</h4>
+							</div> <!-- .media-body -->
+						</li>
+												<li class='media space margin-bottom-20'>
+							<div class='media-left'>
+								<img class='media-object borderthumb' 
+									 src='foto_berita/medium_1120231003_-_Rapat_Paripurna_DPR_1.jpeg' 
+									 alt='RUU ASN Disahkan, Daerah 3T Bakal Lebih Mudah Dapat ASN' 
+									 width='125' 
+									 height='70'>
+							</div> <!-- .media-left -->
+
+							<div class='media-body'>
+								<p class='small text-muted no-bottom-spacing'>
+									<i class='fa fa-calendar margin-right-5'></i>
+									10 Oktober 2023								</p>
+								<h4 class='media-heading margin-top-5'>
+									<a href='baca-berita-493-ruu-asn-disahkan-daerah-3t-bakal-lebih-mudah-dapat-asn.html'>
+										RUU ASN Disahkan, Daerah 3T Bakal Lebih Mudah Dapat ASN									</a>
+								</h4>
+							</div> <!-- .media-body -->
+						</li>
+												<li class='media space margin-bottom-20'>
+							<div class='media-left'>
+								<img class='media-object borderthumb' 
+									 src='foto_berita/medium_5820231005_-_ZI_Classroom.jpeg' 
+									 alt='Akselerasi Zona Integritas di Daerah, Kementerian PANRB Gelar ZI Classroom' 
+									 width='125' 
+									 height='70'>
+							</div> <!-- .media-left -->
+
+							<div class='media-body'>
+								<p class='small text-muted no-bottom-spacing'>
+									<i class='fa fa-calendar margin-right-5'></i>
+									10 Oktober 2023								</p>
+								<h4 class='media-heading margin-top-5'>
+									<a href='baca-berita-492-akselerasi-zona-integritas-di-daerah-kementerian-panrb-gelar-zi-classroom.html'>
+										Akselerasi Zona Integritas di Daerah, Kementerian PANRB Gelar ZI Classroom									</a>
+								</h4>
+							</div> <!-- .media-body -->
+						</li>
+												<li class='media space margin-bottom-20'>
+							<div class='media-left'>
+								<img class='media-object borderthumb' 
+									 src='foto_berita/medium_3520231006_-_Audiensi_dengan_Menteri_Komunikasi_dan_Informatika_1.jpeg' 
+									 alt='Bertemu Menteri Kominfo, Menpan RB Akselerasi Penerapan SPBE Terpadu' 
+									 width='125' 
+									 height='70'>
+							</div> <!-- .media-left -->
+
+							<div class='media-body'>
+								<p class='small text-muted no-bottom-spacing'>
+									<i class='fa fa-calendar margin-right-5'></i>
+									10 Oktober 2023								</p>
+								<h4 class='media-heading margin-top-5'>
+									<a href='baca-berita-491-bertemu-menteri-kominfo-menpan-rb-akselerasi-penerapan-spbe-terpadu.html'>
+										Bertemu Menteri Kominfo, Menpan RB Akselerasi Penerapan SPBE Terpadu									</a>
+								</h4>
+							</div> <!-- .media-body -->
+						</li>
+											</ul>
+				</div>
+
+				<div class='tab-pane no-padding' id='agendakegiatan'>
+					<ul class='media-list'>
+												<li class='media space margin-bottom-20'>
+							<div class='media-left'>
+								<div class='event-date margin-bottom-5'>
+									<p>31 </p>
+									<small class='uppercase'>Jul</small>
+								</div> <!-- .event-date -->
+							</div> <!-- .media-left -->
+
+							<div class='media-body'>
+								<h5><b>Seruyan Expo 10 Agustus - 19 Agustus 2022</b></h5>
+
+								<ul class='list-inline small'>
+									<li><b><i>
+										<i class='fa fa-calendar'></i> 31 Juli 2022</i></b><b><i>
+										<i class='fa fa-map-marker'></i> Stadion Gagah Lurus - 10 Agustus 2022 s/d 19 Agustus 2022 Pukul 07.00 WIB s/d Selesai</i></b>
+										<b>
+										<i class='fa fa-user'></i> Setda Kab. Seruyan</b>
+										</li>
+									<li style='margin-top: 5px;'>
+			                            <p>Pameran Pembangunan dan Gelar Produk UMKM 10 Agustus</p><br />
+									</li>
+								</ul>
+								</div> <!-- .media-body -->
+						</li>
+												<li class='media space margin-bottom-20'>
+							<div class='media-left'>
+								<div class='event-date margin-bottom-5'>
+									<p>31 </p>
+									<small class='uppercase'>Jul</small>
+								</div> <!-- .event-date -->
+							</div> <!-- .media-left -->
+
+							<div class='media-body'>
+								<h5><b>Gerakan 1 Juta Bendera</b></h5>
+
+								<ul class='list-inline small'>
+									<li><b><i>
+										<i class='fa fa-calendar'></i> 31 Juli 2022</i></b><b><i>
+										<i class='fa fa-map-marker'></i> Pasar Saik Jl. AIS. Nasution Kuala Pembuang - 31 Juli 2022 s/d 31 Juli 2022 Pukul 15.00 WIB s/d Selesai</i></b>
+										<b>
+										<i class='fa fa-user'></i> Setda Kab. Seruyan</b>
+										</li>
+									<li style='margin-top: 5px;'>
+			                            <p>Dalam Rangka memerihkan Hari Jadi Kabupaten Seruyan ke 22 dan Republik Indonesia ke 77</p><br />
+									</li>
+								</ul>
+								</div> <!-- .media-body -->
+						</li>
+											</ul>
+				</div>
+
+				<div class='tab-pane no-padding' id='pengumuman'>
+					<ul class='media-list'>
+											<li class='media space margin-bottom-20'>
+							<div class='media-left'>
+								<div class='event-date margin-bottom-5'>
+									<i class='fa fa-bullhorn fa-3x'></i>
+								</div>
+							</div>
+
+							<div class='media-body'>
+								<p class='small text-muted no-bottom-spacing'>
+									<i class='fa fa-calendar margin-right-5'></i>
+									Rabu, 15 Nov 2017								</p>
+								<h4 class='media-heading margin-top-5'>
+									<a href='baca-pengumuman-2-pemasangan-bendera-merah-putih.html'>
+										Pemasangan Bendera Merah Putih									</a>
+								</h4>
+							</div>
+						</li>
+											</ul>
+				</div>
+			</div>
+			<!--/////////////////////////- end main -/////////////////////-->
+			</div>
+		
+		<div class='col-md-4 no-padding right-column margin-bottom-15'>
+				<!-- jajak pendapat -->
+					
+				<div class='content-box box-img bg-light no-margin featured-news jajak-pendapat'>
+					<div class='col-sm-12 no-padding'>
+						<div class='container-fluid no-margin no-padding'>
+							<div class='col-xs-12 padding-top-10 hal-kecil-heading'>
+								<!-- judul -->
+								<h1 class='panel-title custom-font'><i class='fa fa-signal'></i> &nbsp;Polling</h1>
+							</div>
+						</div>
+					</div>
+					<div class='box-body custom'>
+												<p>Bagaimana Menurut Pendapat Anda tentang Website ini?</p>
+						<form action='hasil-poling.html' method='post' class='bs-example form-horizontal'>
+							<div class='form-group'>
+								<div class='col-lg-10'>
+									<div class='radio'>
+												<label>
+												<input name='pilihan' type='radio' value='4'/>Sangat Bagus</label>
+											</div><div class='radio'>
+												<label>
+												<input name='pilihan' type='radio' value='3'/>Cukup</label>
+											</div><div class='radio'>
+												<label>
+												<input name='pilihan' type='radio' value='2'/>Kurang</label>
+											</div>								</div>
+							</div>
+
+							<div class='form-group'>
+								<div class='col-lg-12'>
+									<input type='submit' name='Submit' value='Vote' class='btn btn-sm btn-primary'/>
+									<input type='button' name='lihat' value='Lihat Hasil' class='btn btn-sm btn-primary' onclick='window.location.href='lihat-poling.html'; return false;' />
+									<input type='hidden' id='id' name='id' value='' />
+								</div>
+							</div>
+
+						</form>
+
+					</div> <!-- .box-body -->
+				</div> <!-- .content-box .box-img -->
+
+				<style type='text/css'>
+					.kritik-saran li a, .kritik-saran li p {
+						color: #fff;
+					}
+				</style>
+
+				<div class='margin-top-15'>
+					<div class='col-sm-12 no-padding'>
+						<div class='container-fluid no-margin no-padding'>
+							<div class='col-xs-12 padding-top-10 hal-kecil-heading'>
+								<!-- judul -->
+								<h1 class='panel-title custom-font'>Artikel GPR</h1>
+							</div>
+							<div class='box-body' id='gpr-kominfo-widget-container'>
+							    
+															</div>
+						</div>
+					</div>
+				</div>
+
+
+			</div>
+			
+		</div>
+	</div>
+</section>
+
+<style type='text/css'>
+	.page-heading {
+		color: #000;
+		font-size: 30px;
+		text-align: center;
+		border-bottom: 1px solid;
+	}
+</style>
+<section class='site-content padding-bottom-0'>
+	<div class='container no-padding margin-top-15'>
+		<div class='row'>
+			<div class='col-md-12'>
+				<h3 class='page-heading'>Gallery Foto</h3>
+			</div>
+			<!-- Video -->
+			<style type='text/css'>
+				div.content-box.box-clickable {
+				    background-color: #414141;
+				}
+
+				.box-body h4 a {
+					color: #fff;
+				}
+			</style>
+						<div class='col-md-3 col-sm-6 col-xs-12 margin-bottom-15'>
+				<div class='content-box box-img no-margin text-center featured-news box-clickable'>
+					<img class='img-responsive' src='img_album/kecil_16kecil_71gallogo.jpg' alt='Seksi Pemerintahan' width='100%' style='height:191.25px;'>
+					<div class='ua-square-logo overlap-top text-center'>
+						<center>
+							<div class='overlay-custom' style='max-width: 150px;margin-top:30px;'>
+								<div class='overlay-post' style='background-color: #FE8C05;color: #fff;padding: 9px;'><b>Galeri Foto</b></div>
+							</div>
+						</center>
+					</div> <!-- .overlay-post -->
+					<div class='box-body'>
+						<h4>
+							<a href='lihat-foto-28-seksi-pemerintahan.html'>Seksi Pemerintahan</a>
+						</h4>
+					</div> <!-- .box-body -->
+				</div> <!-- .box-img -->
+			</div> <!-- .col-md-3 -->
+						<div class='col-md-3 col-sm-6 col-xs-12 margin-bottom-15'>
+				<div class='content-box box-img no-margin text-center featured-news box-clickable'>
+					<img class='img-responsive' src='img_album/kecil_87kecil_66gallogo.jpg' alt='Seksi PMD' width='100%' style='height:191.25px;'>
+					<div class='ua-square-logo overlap-top text-center'>
+						<center>
+							<div class='overlay-custom' style='max-width: 150px;margin-top:30px;'>
+								<div class='overlay-post' style='background-color: #FE8C05;color: #fff;padding: 9px;'><b>Galeri Foto</b></div>
+							</div>
+						</center>
+					</div> <!-- .overlay-post -->
+					<div class='box-body'>
+						<h4>
+							<a href='lihat-foto-27-seksi-pmd.html'>Seksi PMD</a>
+						</h4>
+					</div> <!-- .box-body -->
+				</div> <!-- .box-img -->
+			</div> <!-- .col-md-3 -->
+						<div class='col-md-3 col-sm-6 col-xs-12 margin-bottom-15'>
+				<div class='content-box box-img no-margin text-center featured-news box-clickable'>
+					<img class='img-responsive' src='img_album/kecil_71gallogo.jpg' alt='Seksi Sosial' width='100%' style='height:191.25px;'>
+					<div class='ua-square-logo overlap-top text-center'>
+						<center>
+							<div class='overlay-custom' style='max-width: 150px;margin-top:30px;'>
+								<div class='overlay-post' style='background-color: #FE8C05;color: #fff;padding: 9px;'><b>Galeri Foto</b></div>
+							</div>
+						</center>
+					</div> <!-- .overlay-post -->
+					<div class='box-body'>
+						<h4>
+							<a href='lihat-foto-26-seksi-sosial.html'>Seksi Sosial</a>
+						</h4>
+					</div> <!-- .box-body -->
+				</div> <!-- .box-img -->
+			</div> <!-- .col-md-3 -->
+						<div class='col-md-3 col-sm-6 col-xs-12 margin-bottom-15'>
+				<div class='content-box box-img no-margin text-center featured-news box-clickable'>
+					<img class='img-responsive' src='img_album/kecil_50gallogo.jpg' alt='Seksi TRANTIBUM' width='100%' style='height:191.25px;'>
+					<div class='ua-square-logo overlap-top text-center'>
+						<center>
+							<div class='overlay-custom' style='max-width: 150px;margin-top:30px;'>
+								<div class='overlay-post' style='background-color: #FE8C05;color: #fff;padding: 9px;'><b>Galeri Foto</b></div>
+							</div>
+						</center>
+					</div> <!-- .overlay-post -->
+					<div class='box-body'>
+						<h4>
+							<a href='lihat-foto-25-seksi-trantibum.html'>Seksi TRANTIBUM</a>
+						</h4>
+					</div> <!-- .box-body -->
+				</div> <!-- .box-img -->
+			</div> <!-- .col-md-3 -->
+						
+		<div class='col-md-12'>
+				<span class='pull-right'>
+					<a class='btn btn-sm btn-primary' href='arsip-foto.html'>Lihat Gallery Foto Lainnya</a>
+				</span>
+				<br>
+			</div>
+		</div> <!-- .row -->
+	</div>
+</section>
+ <style type='text/css'>
+	.border-kanan {
+		border-right: 1px groove rgba(249, 249, 249, 0.52);
+	}
+
+	.border-kiri {
+		border-left: 1px groove rgba(249, 249, 249, 0.52);
+	}
+</style>
+
+<!-- Footer -->
+<footer>
+	<div class='container'>
+		<div class='row'>
+			
+			<div class='col-sm-4 border-kanan'>
+				<h5 class='myriadpro margin-bottom-15'>Kontak Kami</h5>
+
+				<ul class='fa-ul margin-top-15'>
+					<li><i class='fa-li fa-md link-default fa fa-home'></i>
+					Jl. Bakri Entong, Desa Pembuang Hulu I, Kecamatan Hanau</li>
+					<li><i class='fa-li fa-md link-default fa fa-envelope'></i>
+					<a href='mailto:hanau@seruyankab.go.id'>hanau@seruyankab.go.id</a></li>
+					<li><i class='fa-li fa-md link-default fa fa-fax'></i>
+					0538 - 21012</li>
+				</ul>
+
+				<ul class='list-inline icon-social icon-social-color circle'>
+						<li class='instagram margin-right-5 margin-top-10'>
+							<a target='_BLANK' href='https://www.facebook.com/' title='Facebook'>
+							<i class='fa fa-facebook'></i>
+							<span class='sr-only'>Facebook</span>
+							</a>
+						</li>
+						<li class='instagram margin-right-5 margin-top-10'>
+							<a target='_BLANK' href='https://twitter.com/' title='Twitter'>
+							<i class='fa fa-twitter'></i>
+							<span class='sr-only'>Twitter</span>
+							</a>
+						</li>
+						<li class='instagram margin-right-5 margin-top-10'>
+							<a target='_BLANK' href='http://youtube.com' title='Youtube'>
+							<i class='fa fa-youtube'></i>
+							<span class='sr-only'>Youtube</span>
+							</a>
+						</li>
+						<li class='instagram margin-right-5 margin-top-10'>
+							<a target='_BLANK' href='http://intagram.com/' title='Instagram'>
+							<i class='fa fa-instagram'></i>
+							<span class='sr-only'>Instagram</span>
+							</a>
+						</li>
+				</ul>
+			</div>
+
+			<div class='col-sm-4 border-custom-left border-custom-right margin-bottom-15'>
+							<h5 class='myriadpro margin-bottom-15'>Statistik</h5>
+					<b><font size='5'>57.282</font></b><br>
+						<i class='fa fa-user'></i> Pengunjung hari ini: 40 <br>
+						<i class='fa fa-users'></i> Total pengunjung: 23.679 <br>
+						<i class='fa fa-bar-chart'></i> Hits hari ini: 44 <br><br>
+						<i class='fa fa-user-o'></i> Pengunjung Online: 2 <br><br>
+			</div> <!-- .col-md-6 -->
+			<div class='col-sm-4 border-kiri margin-bottom-15'>
+				<h5 class='myriadpro margin-bottom-15'>Media Sosial</h5>
+				<iframe src='https://www.facebook.com/plugins/page.php?href=https://www.facebook.com/kab.seruyan/?locale=id_ID&tabs=timeline&width=350&height=150&small_header=false&adapt_container_width=true&hide_cover=false&show_facepile=true&appId=1994800977458963' width='350' height='150' style='border:none;overflow:hidden' scrolling='no' frameborder='0' allowfullscreen='true' allow='autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share'></iframe>
+			</div> <!-- .col-md-6 -->
+		</div> <!-- .row -->
+	</div> <!-- .container -->
+
+	<!-- footer-copyright -->
+	<div class='footer-copyright custom'>
+		<div class='container'>
+			<div class='row'>
+				<div class='col-xs-12 text-center'>
+					<p class='copyright-text'>
+					Copyright &copy; 2022 Website Resmi Kecamatan Hanau</a>
+					</p>
+
+				</div> <!-- .col-xs-12 -->
+			</div> <!-- .row -->
+		</div> <!-- .container -->
+	</div> <!-- .footer-copyright -->
+</footer>
+<!-- /.Footer -->
+
+<script type='text/javascript' src='https://widget.kominfo.go.id/gpr-widget-kominfo.min.js'></script>
+
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+
+<!-- core JS -->
+<script src='templates/skpdlotim/js/ajax/libs/jquery/1.12.2/jquery.min.js'></script>
+<script src='templates/skpdlotim/assets_baru/js/bootstrap.min7433.js?ver=3.3.7'></script>
+<script src='templates/skpdlotim/assets_baru/js/scripts97de.js?ver=1.0.5'></script>
+<!-- .core JS -->
+<!-- sharingButton -->
+<script type='text/javascript' src='templates/skpdlotim/assets_baru/js/rrssb.min.js'></script>
+<!-- bts js -->
+<script src='templates/skpdlotim/assets_baru/js/bootstrap-touch-slider.js'></script>
+<!-- slickCarousel -->
+<script type='text/javascript' src='templates/skpdlotim/assets_baru/js/slick.min.js'></script>
+<!-- di bawah ini adalah konfigurasi // don't bother edit it nanti tak pukul -->
+
+<!-- slick config -->
+<script type='text/javascript'>
+	$(document).ready(function(){
+		$('.slider-kecil').slick({
+			autoplay: true,
+			infinite: true,
+			slidesToShow: 4,
+			slidesToScroll: 1,
+			lazyLoad: 'ondemand',
+			/*dots: true,*/
+			variableWidth: true,
+			arrows:true
+		});
+	});
+</script>
+
+<script type='text/javascript'>
+$(function() {
+	$('.gambarnya').on('click', function() {
+		$('.enlargeImageModalSource').attr('src', $(this).attr('src'));
+		$('#enlargeImageModal').modal('show');
+	});
+});
+</script>
+
+<!-- bts config -->
+<script type='text/javascript'>
+  $(document).ready(function() {
+	$('#bootstrap-touch-slider').bsTouchSlider();
+  });
+</script>
+
+<!-- popup config -->
+<script type='text/javascript'> 
+$(document).ready(function(){
+	var my_cookie = $.cookie($('.modal-check').attr('name'));
+	if (my_cookie && my_cookie == 'true') {
+		$(this).prop('checked', my_cookie);
+		console.log('checked checkbox');
+	}
+	else{
+		$('#PopupModal').modal('show');
+		console.log('uncheck checkbox');
+	}
+
+	$('.modal-check').change(function() {
+		$.cookie($(this).attr('name'), $(this).prop('checked'), {
+			path: '/',
+			expires: 1
+		});
+	});
+});
+</script>
+<script src='templates/skpdlotim/assets_baru/js/jquery.cookie.js'></script>
+<!-- end of popup -->
+
+
+
+<!-- form validate config -->
+<script src='templates/skpdlotim/js/jquery.validation/1.16.0/jquery.validate.min.js'></script>
+<script type='text/javascript'>
+	$(document).ready(function () {
+
+	$('#formku').validate({ // initialize the plugin
+		rules: {
+			nik: {
+				required: true
+			},
+			nama: {
+				required: true
+			}
+		}
+	});
+
+});
+</script>
+
+<!-- carousel config -->
+<script type='text/javascript'>
+  $('.carousel').carousel({
+		pause: 'false'
+  });
+</script>
+
+<script type='text/javascript'>
+$(document).ready(function(ev){
+	$('#custom_carousel').on('slide.bs.carousel', function (evt) {
+	  $('#custom_carousel .controls li.active').removeClass('active');
+	  $('#custom_carousel .controls li:eq('+$(evt.relatedTarget).index()+')').addClass('active');
+	})
+});
+</script>
+
+<!-- shrink logo config -->
+<script type='text/javascript'>
+	$(window).scroll(function() {
+	  if ($(document).scrollTop() > 40) {
+		$('.navbar-header').addClass('shrink');
+	  } else {
+		$('.navbar-header').removeClass('shrink');
+	  }
+	  // if ($(document).scrollTop() >= 200) {
+	  //   $('nav.navbar-fixed-top').autoHidingNavbar();
+	  // }
+	});
+</script>
+
+<!-- fb comments -->
+<script>(function(d, s, id) {
+var js, fjs = d.getElementsByTagName(s)[0];
+if (d.getElementById(id)) return;
+js = d.createElement(s); js.id = id;
+js.src = '../../connect.facebook.net/id_ID/all.js#xfbml=1&appId=89533811750';
+fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+</script>
+
+<script type='text/javascript' src='templates/skpdlotim/assets_baru/js/jquery.marquee.min.js'></script>
+<script type='text/javascript'>
+<!--//
+var use_debug = false;
+function debug(){
+	 if( use_debug && window.console && window.console.log ) console.log(arguments);
+}
+
+// on DOM ready
+$(document).ready(function (){
+	 $('.marquee').marquee({
+		  loop: -1
+		  // this callback runs when the marquee is initialized
+		  , init: function ($marquee, options){
+				debug('init', arguments);
+				// shows how we can change the options at runtime
+				if( $marquee.is('#marquee2') ) options.yScroll = 'bottom';
+		  }
+		  // this callback runs before a marquee is shown
+		  , beforeshow: function ($marquee, $li) {
+				debug('beforeshow', arguments);
+
+				// check to see if we have an author in the message (used in #marquee6)
+				var $author = $li.find('.author');
+				// move author from the item marquee-author layer and then fade it in
+
+				if( $author.length ){
+					 $('#marquee-author').html('<span style='display:none;'>' + $author.html() + '</span>').find('> span').fadeIn(850);
+				}
+		  }
+
+		  // this callback runs when a has fully scrolled into view (from either top or bottom)
+		  , show: function (){
+				debug('show', arguments);
+		  }
+
+		  // this callback runs when a after message has being shown
+		  , aftershow: function ($marquee, $li){
+				debug('aftershow', arguments);
+
+				// find the author
+				var $author = $li.find('.author');
+
+				// hide the author
+				if( $author.length ) $('#marquee-author').find('> span').fadeOut(250);
+		  }
+	 });
+});
+
+var iNewMessageCount = 0;
+
+function addMessage(selector){
+	
+	 // increase counter
+	 iNewMessageCount++;
+
+	 // append a new message to the marquee scrolling list
+	 var $ul = $(selector).append('<li>New message #' + iNewMessageCount + '</li>');
+
+	 // update the marquee
+	 $ul.marquee('update');
+
+}
+
+function pause(selector){
+	 $(selector).marquee('pause');
+}
+
+function resume(selector){
+	 $(selector).marquee('resume');
+}
+//-->
+</script>
+
+<script type='text/javascript'>
+<!--
+var months = ['Januari', 'Februari', 'Maret', 'April', 'Mei', 'Juni', 'Juli', 'Agustus', 'September', 'Oktober', 'November', 'Desember'];
+var myDays = ['Minggu', 'Senin', 'Selasa', 'Rabu', 'Kamis', 'Jumat', 'Sabtu'];
+var date = new Date();
+var day = date.getDate();
+var month = date.getMonth();
+var thisDay = date.getDay(),
+	thisDay = myDays[thisDay];
+var yy = date.getYear();
+var year = (yy < 1000) ? yy + 1900 : yy;
+//-->
+<!--
+function checkTime(i) {
+	if (i<10) {
+		i='0' + i;
+	}
+	return i;
+}
+//-->
+</script>
+
 </body>
+
 </html>
+
     
     ";
 }
