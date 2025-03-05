@@ -1,0 +1,11 @@
+# Ngidinan Google Search Console maca file verifikasi
+RewriteCond %{REQUEST_URI} ^/google[a-zA-Z0-9]+\.html$ [NC]
+RewriteRule .* - [L]
+
+# Pastikeun Laravel routing henteu ngalanglangan file statik
+RewriteCond %{REQUEST_FILENAME} -f
+RewriteRule ^ - [L]
+
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^ index.php [L]
